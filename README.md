@@ -1,6 +1,8 @@
-### Hi there 👋
+[![PeterBrain's github stats](https://github-readme-stats.vercel.app/api?username=peterbrain&show_icons=true&hide_border=true&hide_title=false&hide_rank=false&title_color=0366d6&text_color=333&icon_color=0366d6&line_height=25)](https://github.com/PeterBrain)
 
 <!--
+### Hi there 👋
+
 **PeterBrain/peterbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
