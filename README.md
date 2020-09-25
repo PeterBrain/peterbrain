@@ -1,4 +1,12 @@
-[![PeterBrain's github stats](https://github-readme-stats.vercel.app/api?username=peterbrain&show_icons=true&hide_border=true&hide_title=false&hide_rank=false&title_color=0366d6&text_color=333&icon_color=0366d6&line_height=25)](https://github.com/PeterBrain)
+<p align="center">
+  <a href="https://github.com/PeterBrain">
+    <img src="https://github-readme-stats.vercel.app/api?username=peterbrain&theme=default&title_color=0366d6&text_color=333&icon_color=0366d6&bg_color=ffffff&hide_border=true&hide_title=false&show_icons=true&hide_rank=false&line_height=25&count_private=true&include_all_commits=true">
+  </a>
+  <a href="https://github.com/PeterBrain">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbrain&theme=default&title_color=0366d6&text_color=333&icon_color=0366d6&bg_color=ffffff&hide_border=true&hide=html,css&layout=compact&langs_count=10">
+  </a>
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=peterbrain">-->
+</p>
 
 <!--
 ### Hi there 👋
